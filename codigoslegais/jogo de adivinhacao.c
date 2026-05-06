@@ -21,9 +21,5 @@ printf("muito baixo, digite outro numero de %d a %d:\n", menor, maior);
 printf("muito alto, digite outro numero de %d a %d:\n", menor, maior);
 }
 }
-printf("ola so testando");
-
-printf("add coisa no teste");
-printf("outro teste add se aparecer os dois");
 return 0;
 }
