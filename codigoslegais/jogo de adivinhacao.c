@@ -18,5 +18,6 @@ printf("muito baixo, digite outro numero:\n");
 printf("muito alto, digite outro nu\n");
 }
 }
+printf("ola so testando");
 return 0;
 }
