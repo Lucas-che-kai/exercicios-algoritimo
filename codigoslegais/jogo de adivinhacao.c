@@ -22,5 +22,7 @@ printf("muito alto, digite outro numero de %d a %d:\n", menor, maior);
 }
 }
 printf("ola so testando");
+
+printf("outro teste add se aparecer os dois");
 return 0;
 }
