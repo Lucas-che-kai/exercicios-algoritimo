@@ -21,6 +21,5 @@ printf("muito baixo, digite outro numero de %d a %d:\n", menor, maior);
 printf("muito alto, digite outro numero de %d a %d:\n", menor, maior);
 }
 }
-printf("oi");
 return 0;
 }
